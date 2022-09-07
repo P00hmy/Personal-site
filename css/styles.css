@@ -1,0 +1,28 @@
+body {
+    background-color: pink;
+    margin: 0;
+}
+hr {
+    border-color: grey;
+    border-width: 5px;
+    border-style: dotted none none none;
+    width: 10%;
+}
+h1 {
+    color: #66BFBF;
+    font-style: italic;
+    text-decoration: underline;
+}
+h2 {
+    color: #66BFBF;
+} 
+h3 {
+    color: #66BFBF;
+}
+
+.image {
+    background-color: pink;
+    border-width: 200px;
+    border-radius: 200px;
+    width: 90%;
+}
